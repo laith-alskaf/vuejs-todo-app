@@ -1,15 +1,15 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/vuetifyjs/vuetify/master/docs/public/logo.svg" alt="ProTasker Logo" width="120" />
 
-  # ProTasker 🚀
-  
-  **A premium, fast, and feature-rich Todo Application built with Vue 3, Vite, and Vuetify 3.**
+# ProTasker 🚀
 
-  [![Vue.js](https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-  [![Vite](https://img.shields.io/badge/Vite%205-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Vuetify 3](https://img.shields.io/badge/Vuetify%203-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)](https://vuetifyjs.com/)
-  
+**A premium, fast, and feature-rich Todo Application built with Vue 3, Vite, and Vuetify 3.**
+
+[![Vue.js](https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![Vite](https://img.shields.io/badge/Vite%205-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vuetify 3](https://img.shields.io/badge/Vuetify%203-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)](https://vuetifyjs.com/)
+
 </div>
 
 ---
@@ -48,6 +48,7 @@ To get a local copy up and running, follow these simple steps.
 ### Prerequisites
 
 Ensure you have Node.js installed on your machine.
+
 - Node.js (v18.x or newer recommended)
 - npm (v9.x or newer)
 
@@ -92,11 +93,6 @@ src/
 └── main.ts              # Application entry point & Vuetify initialization
 ```
 
-## 📜 License
-
-This project is licensed under the ISC License.
-
----
 <div align="center">
   <i>Built with ❤️ using Vue 3 and Vuetify</i>
 </div>
