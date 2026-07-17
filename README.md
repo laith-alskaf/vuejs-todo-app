@@ -55,7 +55,7 @@ Ensure you have Node.js installed on your machine.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/ahmed-gz/vuejs-todo-app.git
+   git clone https://github.com/laith-alskaf/vuejs-todo-app.git
    ```
 2. Navigate to the project directory
    ```bash
